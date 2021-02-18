@@ -1,0 +1,1 @@
+[{"name": "NAS4Free (FreeBSD 11.1-RELEASE)", "accuracy": "85", "line": "26612", "osclass": {"type": "storage-misc", "vendor": "FreeBSD", "osfamily": "FreeBSD", "osgen": "11.X", "accuracy": "85"}, "cpe": "cpe:/o:freebsd:freebsd:11.1"}]
